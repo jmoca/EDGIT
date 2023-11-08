@@ -1,2 +1,3 @@
-hola esto es un ejemplo
-esto no es un git ignore
+Esto en realidad si era para el git.ignore.
+
+te he borrado todo jijijij.
