@@ -1,3 +1,2 @@
-Pero que dices tuuuuuuu esto es un txt normal, el archivo que esta en el gitignore
- es otro que no le ha ahecho comit por tanto lo tengo en mi maquina local
-
+sigue probando hasta que salga
+	

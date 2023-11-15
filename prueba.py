@@ -3,11 +3,6 @@ frase = frase.split()
 
 for palabra in frase:
     nueva_palabra = palabra[:]
-    print(f"Nueva palabra: {nueva_palabra}")
-
-x = 5
-y = 3
-c = x + y
-print(c)
+    print(f"Palabra: {nueva_palabra},\n número de letras: {len(nueva_palabra)}")
 
 
